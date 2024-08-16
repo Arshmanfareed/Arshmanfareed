@@ -1,5 +1,5 @@
 <img src="banner.png" alt="Arshman Fareed - Backend & Front-End Developer" />
-<h1>Backend Maestro</h1>
+<h1>Backend & Front-End Maestro</h1>
 <p>Welcome to my digital playground!💡💻 I'm <b>Arshman Fareed</b>, a passionate software engineer having over 5 years in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
 <h2>🛠️ My Skills:</h2>
 <ul>
@@ -54,9 +54,9 @@
 </ul>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working for <a href="https://github.com/designocracy">Designocracy</a> & <a href="https://github.com/Epic-Jam">Epic Jam</a>.</li>
+<li>🔭 I’m currently working for <a href="https://tekunity.com">Tekunity</a>.</li>
 <li>👨‍💻 I’m currently working on mostly MERN, Laravel, and Wordpress backend development projects.</li>
-<li>🧐 Learning about <strong>Serverless Architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain & AI (Artificial Intelligence)</strong>.</li>
+<!-- <li>🧐 Learning about <strong>Serverless Architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain & AI (Artificial Intelligence)</strong>.</li> -->
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Arshmanfareed">Github</a>.</li>
 </ul>
 <h2>📬 Get in Touch:</h2>
