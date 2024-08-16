@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Arshman Fareed - Backend & Front-End Developer" />
+<img src="banner-img-1.jpg" alt="Arshman Fareed - Backend & Front-End Developer" />
 <h1>Backend & Front-End Maestro</h1>
 <p>Welcome to my digital playground!💡💻 I'm <b>Arshman Fareed</b>, a passionate software engineer having over 5 years in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
 <h2>🛠️ My Skills:</h2>
